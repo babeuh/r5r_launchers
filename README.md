@@ -2,7 +2,7 @@
 
 1. This is not a cheat or hack. Do not attempt to use this on the latest version of the game
 
-2. All this code was blatently stolen form the official [detours_r5](https://github.com/Mauler125/detours_r5) repo
+2. All this code was blatently ~~stolen~~ taken from the official [detours_r5](https://github.com/Mauler125/detours_r5) repo
 
 ## Why
 
